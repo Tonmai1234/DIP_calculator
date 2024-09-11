@@ -1,2 +1,3 @@
 # DIP_calculator
-New DIP's calculator design
+Calculator using tkinter.
+Submitted on 11/9/2567
